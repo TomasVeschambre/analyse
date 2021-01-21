@@ -1,0 +1,25 @@
+ 	#nav {
+ 		background-color: #ff4c68;
+ 		height: 10%;
+ 		padding-top: 1%;
+ 		padding-bottom: 1%;
+	 }
+
+	#corps{
+		margin-left: 50%;
+
+
+	}
+
+	#connexion {
+		text-align: center;
+		width: 30%;
+		margin-left: 50%;
+	}
+
+	footer{
+		background:#C3C3C3;
+		width:100%;
+		position: absolute;
+		bottom : 0;
+	}

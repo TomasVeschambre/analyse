@@ -1,0 +1,32 @@
+ 	#nav {
+ 		background-color: #ff4c68;
+ 		height: 10%;
+ 		padding-top: 1%;
+ 		padding-bottom: 1%;
+	 }
+
+
+	#image_chercheur {
+		margin-left: 60%;
+		margin-top: -20%;
+
+	}
+
+	#img2{
+		width: 100%;
+	}
+
+	#corps{
+		margin-top: 3%;
+		margin-left: 0%;
+		margin-right: 10%;
+		text-align: justify;
+	}
+
+	footer{
+		background:#C3C3C3;
+		width:100%;
+		position: absolute;
+		bottom : 0;
+	}
+

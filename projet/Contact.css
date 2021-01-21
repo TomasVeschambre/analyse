@@ -1,0 +1,28 @@
+ 	#nav {
+ 		background-color: #ff4c68;
+ 		height: 10%;
+ 		padding-top: 1%;
+ 		padding-bottom: 1%; 
+	 }
+
+	#container {
+		
+		width: 50%;
+		margin-left: 30%;
+		margin-top: 5%;
+		text-align: justify;
+	}
+
+	#requete {
+		width: 50%;
+		margin-left: 40%;
+		margin-top: 5%;
+		text-align: justify;
+	}
+
+	footer{
+		background:#C3C3C3;
+		width:100%;
+		position: absolute;
+		bottom : 0;
+	}
